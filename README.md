@@ -1,6 +1,14 @@
 # Project from Dataquest: Working with Missing Data
 
-In this mission from the Dataquest platform, the goal is to learn the basics on how to handle missing data without having to drop rows and columns.
+In this mission from the Dataquest platform, the main goal is to learn the basics on how to handle missing data without having to drop rows and columns. The techniques used include: 
+
+- imputation: filling in a missing value with a replacement value
+  - verification of totals through the sum of the individual columns
+  - most common value in a column
+  - placeholder (ex: Unknown)
+  - supplemental data which correlates with part of the actual data set
+- plotting the missing values (ex: with a heatmap, for example): to understand visually how the missing values are distributed
+- correlating missing values: to find out if there's any pattern among the missing values.
 
 The given dataset is comprised of vehicle collisions in New York City and published on the [NYC OpenData website](https://data.cityofnewyork.us/Public-Safety/NYPD-Motor-Vehicle-Collisions/h9gi-nx95). We'll work with an extract of the full data: crashes from the year 2018. Several modifications were made to the data for teaching purposes, including randomly sampling the data to reduce its size.
 
