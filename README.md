@@ -3,10 +3,10 @@
 In this mission from the Dataquest platform, the main goal is to learn the basics on how to handle missing data without having to drop rows and columns. The techniques used include: 
 
 - imputation: filling in a missing value with a replacement value
-  - verification of totals through the sum of the individual columns
-  - most common value in a column
-  - placeholder (ex: Unknown)
-  - supplemental data which correlates with part of the actual data set
+  - fill in missing totals through the sum of individual columns
+  - fill in with most common value in a column
+  - fill in with a placeholder (ex: Unknown)
+  - fill in with supplemental data which correlates with part of the actual data set
 - plotting the missing values (ex: with a heatmap, for example): to understand visually how the missing values are distributed
 - correlating missing values: to find out if there's any pattern among the missing values.
 
