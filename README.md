@@ -12,7 +12,7 @@ In this mission from the Dataquest platform, the main goal is to learn the basic
 
 The given dataset is comprised of vehicle collisions in New York City and published on the [NYC OpenData website](https://data.cityofnewyork.us/Public-Safety/NYPD-Motor-Vehicle-Collisions/h9gi-nx95). We'll work with an extract of the full data: crashes from the year 2018. Several modifications were made to the data for teaching purposes, including randomly sampling the data to reduce its size.
 
-The data set is in a csv called __nypd_mvc_2018.csv__ and the project is presented on a Jupyter Notebook called __Working with Missing Data.ipynb__.
+The data set is in a csv called [__nypd_mvc_2018.csv__](https://github.com/clayamakita/missing_data_vehicles_collisions/blob/main/nypd_mvc_2018.csv) and the project is presented on a Jupyter Notebook called [__Working with Missing Data.ipynb__](https://github.com/clayamakita/missing_data_vehicles_collisions/blob/main/Working%20with%20Missing%20Data.ipynb).
 
 Below is a summary of the columns and their data:
 
